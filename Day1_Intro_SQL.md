@@ -114,21 +114,4 @@ Let’s build strong SQL foundations together 💪
 
 ---
 
-### ✅ What You Can Do Now:
 
-1. Paste this in `Day1_Intro_SQL.md` on GitHub
-2. Link it in `index.md` as:
-
-```markdown
-- [Day 1 - Introduction to SQL](Day1_Intro_SQL.md)
-```
-
----
-
-Do you want help with:
-
-* ✅ `index.md` homepage content (listing all 15 days)?
-* ✅ Day 2 content ready to go?
-* ✅ A social media post/banner for Day 1?
-
-Just say the word, and I’ll prepare it!
