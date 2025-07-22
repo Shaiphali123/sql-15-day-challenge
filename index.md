@@ -42,7 +42,7 @@
 
 ## 📣 Let’s Learn and Grow Together
 
-🔗 Follow [Shaiphali Bhadani](https://www.linkedin.com/in/shaiphali-bhadani/) for daily updates.  
+🔗 Follow [Shaivi Connect LinkedIn](https://www.linkedin.com/company/shaivi-connect/) for daily updates.  
 💬 Got feedback? Open an issue or DM on LinkedIn.
 
 ---
