@@ -1,36 +1,48 @@
-<!-- SHAIVI CONNECT HOMEPAGE -->
-<h1 align="center">🚀 Welcome to the 15-Day SQL Challenge by Shaivi Connect</h1>
+<!-- SHAIVI CONNECT SQL CHALLENGE -->
 
-<p align="center">
-👩‍💻 Learn SQL step by step <br>
-📚 Includes: Concepts, Interview Qs, Queries, and Polls <br>
-📅 One topic per day • Beginner Friendly • GitHub Portfolio Ready
-</p>
+# 🚀 15-Day SQL Challenge by Shaivi Connect
+
+👩‍💻 **Learn SQL step by step**  
+📚 Includes: Concepts, Interview Qs, Queries, and Polls  
+📅 One topic per day • Beginner Friendly • GitHub Portfolio Ready  
 
 ---
 
 ## 📌 Daily Topics
 
-| Day | Topic | Link |
-|-----|-------|------|
-| Day 1 | Introduction to SQL | [📖 Read](Day1_Intro_SQL.md) |
-| Day 2 | Data Types & Constraints | Coming Soon 🔜 |
-| Day 3 | SELECT Queries | Coming Soon 🔜 |
-| ...  | ... | ... |
+| Day | Topic                        | Link                            |
+|-----|------------------------------|----------------------------------|
+| Day 1 | Introduction to SQL         | [📖 Read](./Day1_Intro_SQL.md)   |
+| Day 2 | Data Types & Constraints    | Coming Soon 🔜                   |
+| Day 3 | SELECT Queries              | Coming Soon 🔜                   |
+| Day 4 | Filtering Data (WHERE)      | Coming Soon 🔜                   |
+| Day 5 | Aggregate Functions         | Coming Soon 🔜                   |
+| Day 6 | GROUP BY & HAVING           | Coming Soon 🔜                   |
+| Day 7 | Joins in SQL                | Coming Soon 🔜                   |
+| Day 8 | Subqueries                  | Coming Soon 🔜                   |
+| Day 9 | SQL Functions               | Coming Soon 🔜                   |
+| Day 10| ORDER BY & LIMIT            | Coming Soon 🔜                   |
+| Day 11| Views in SQL                | Coming Soon 🔜                   |
+| Day 12| Indexes & Performance       | Coming Soon 🔜                   |
+| Day 13| Transactions in SQL         | Coming Soon 🔜                   |
+| Day 14| Stored Procedures & Triggers| Coming Soon 🔜                   |
+| Day 15| Real-World Interview Set    | Coming Soon 🔜                   |
 
 ---
 
 ## 💡 How to Use This Challenge
 
-1. 📅 Pick a day and go through the content
-2. 🧠 Practice the queries and understand the concepts
-3. 📝 Prepare for interviews with the Q&A section
-4. 🗳️ Participate in polls on [Shaivi Connect LinkedIn](https://www.linkedin.com/in/shaiphali-bhadani)
-5. 🌟 Like, Fork, and Share this repo to support!
+- 📅 Pick a day and go through the topic
+- 🧠 Practice SQL queries and understand the concept
+- ❓ Prepare with common interview questions
+- 🗳️ Vote in daily polls on [Shaivi Connect LinkedIn](https://www.linkedin.com/company/shaivi-connect/)
+- 🌟 Like, Fork, and Share to support this project!
 
 ---
 
-## 📣 Let's Learn and Grow Together
-Follow [Shaiphali Bhadani](https://www.linkedin.com/in/shaiphali-bhadani) on LinkedIn for daily updates.
+## 📣 Let’s Learn and Grow Together
 
-> 💬 Got feedback? Open an issue or DM on LinkedIn!
+🔗 Follow [Shaiphali Bhadani](https://www.linkedin.com/in/shaiphali-bhadani/) for daily updates.  
+💬 Got feedback? Open an issue or DM on LinkedIn.
+
+---
