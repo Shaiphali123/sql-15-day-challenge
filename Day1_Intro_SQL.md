@@ -1,18 +1,4 @@
 
-
----
-
-## ✅ Here’s the **Improved Final Version** of your `Day1_Intro_SQL.md`
-
-### 🔧 Fixes Made:
-
-* Added proper **code blocks** using triple backticks (\`\`\`)
-* Ensured spacing & formatting are Markdown-friendly
-* Cleaned up the layout for UI on GitHub Pages
-
----
-
-````markdown
 <!-- SHAIVI CONNECT SQL CHALLENGE HEADER -->
 <h1 align="center">📅 Day 1 - Introduction to SQL</h1>
 <p align="center">
