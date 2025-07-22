@@ -90,7 +90,7 @@ SELECT * FROM Students;
 * C) MongoDB
 * D) Oracle
 
-👉 *Vote on [Shaivi Connect LinkedIn Poll](#) or drop your answer in the comments!*
+👉 *Vote on [Shaivi Connect LinkedIn](https://www.linkedin.com/company/shaivi-connect/) or drop your answer in the comments!*
 
 ---
 
