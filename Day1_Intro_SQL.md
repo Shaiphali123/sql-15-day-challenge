@@ -1,4 +1,4 @@
-Awesome job! You're nearly done — just a few small adjustments will make your Markdown file render **perfectly** on GitHub Pages and look professional.
+
 
 ---
 
