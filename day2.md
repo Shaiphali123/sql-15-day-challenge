@@ -148,9 +148,6 @@ AND Location IS NOT NULL;
 ✨ Stay consistent. Stay curious.
 We grow together — **#ShaiviConnect 💫**
 
-```
-
----
 
 
 
