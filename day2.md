@@ -1,6 +1,4 @@
-
----
-title: Day 2 - SQL Filtering & Clauses
+Day 2 - SQL Filtering & Clauses
 description: Learn SQL WHERE clause, comparison operators, BETWEEN, IN, LIKE, IS NULL with examples and interview questions.
 ---
 
