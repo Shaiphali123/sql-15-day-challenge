@@ -1,6 +1,6 @@
 # 📊 SQL 15-Day Challenge with Shaivi Connect
 
-👋 Welcome to the **SQL 15-Day Challenge** — your step-by-step journey to mastering SQL from basics to advanced! Whether you're a beginner or prepping for interviews, this series is tailored just for you. 🚀
+👋 Welcome to the **SQL 15-Day Challenge** — your step-by-step journey to mastering SQL from basics to advanced! Whether you're a beginner or preparing for interviews, this series is tailored just for you. 🚀
 
 ---
 
