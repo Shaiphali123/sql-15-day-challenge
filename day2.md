@@ -1,38 +1,94 @@
+---
+layout: default
+title: "Day 2 - SQL Clauses & Filtering"
+permalink: /day2/
+---
 
+🚀 Day 2: SQL Clauses & Filtering
 
-# 📊 SQL 15-Day Challenge with Shaivi Connect 🚀
-
-Welcome to the **15-Day SQL Challenge** hosted by **Shaivi Connect**!  
-This challenge is designed to take you from **beginner to confident** in SQL — step by step, day by day.
+Welcome to **Day 2** of the **SQL 15-Day Challenge with Shaivi Connect**!  
+Today, we’ll dive into how to **filter data** using `WHERE`, comparison operators, and pattern matching.
 
 ---
 
-## 🔗 Daily Learning Links
+🧠 What You'll Learn Today
 
-| Day | Topic                         | Link                                                               |
-|-----|-------------------------------|--------------------------------------------------------------------|
-| 1   | SQL Basics & Intro Commands   | [Go to Day 1](./Day1_Intro_SQL.md)                                 |
-| 2   | WHERE Clause & Filtering      | [Go to Day 2](./day2.md)                                           |
-| 3   | COMING SOON...                | 🚧 Stay Tuned                                                      |
-
----
-
-## 🌟 Why This Challenge?
-
-- Learn SQL through practical, real-world examples  
-- Daily interview questions & hands-on coding  
-- Master SQL in just **15 days**  
-- Perfect for students, job seekers, and automation testers
+- ✅ `WHERE` Clause  
+- ✅ Comparison Operators (`=`, `>`, `<`, `!=`, `>=`, `<=`)  
+- ✅ `BETWEEN`, `IN`, `LIKE`  
+- ✅ `IS NULL` and `IS NOT NULL`  
 
 ---
 
-## 🔗 Follow Shaivi Connect
+🔍 1. SQL WHERE Clause
 
-📱 **Instagram**: [@shaiviconnect](https://www.instagram.com/shaiviconnect/)  
-💼 **LinkedIn**: [Shaivi Connect Page](https://www.linkedin.com/company/107863493/admin/dashboard/)  
-📺 **YouTube**: [@shaiphali43](https://www.youtube.com/@shaiphali43)
+Used to filter records that fulfill a specified condition.
 
----
+```sql
+SELECT * FROM Customers
+WHERE Country = 'India';
+⚖️ 2. Comparison Operators
 
-✨ Let’s grow together — one query at a time!  
-**#ShaiviConnect #SQLChallenge #LearnSQL #AutomationWithFali**
+SELECT * FROM Products
+WHERE Price > 100;
+You can use:
+
+=, !=
+
+>, <
+
+>=, <=
+
+🔁 3. BETWEEN, IN, LIKE
+
+-- BETWEEN
+SELECT * FROM Orders
+WHERE OrderDate BETWEEN '2024-01-01' AND '2024-12-31';
+
+-- IN
+SELECT * FROM Customers
+WHERE Country IN ('India', 'USA', 'UK');
+
+-- LIKE
+SELECT * FROM Customers
+WHERE CustomerName LIKE 'S%';  -- Starts with S
+🚫 4. IS NULL and IS NOT NULL
+
+SELECT * FROM Employees
+WHERE Department IS NOT NULL;
+💡 Interview Questions
+What is the difference between WHERE and HAVING?
+
+How does LIKE differ from = in SQL?
+
+When would you use IN instead of multiple OR conditions?
+
+Explain the use of BETWEEN and IS NULL.
+
+🧪 Practice Challenge
+Query: Show all employees whose age is between 25 and 35 and whose location is not null.
+
+
+SELECT * FROM Employees
+WHERE Age BETWEEN 25 AND 35
+AND Location IS NOT NULL;
+📊 Poll of the Day (on LinkedIn)
+🗳️ “Which SQL clause do you find most tricky?”
+
+LIKE
+
+BETWEEN
+
+IN
+
+IS NULL
+
+🔗 Vote on LinkedIn: [Insert your poll link here]
+
+🔁 Previous Day
+👉 Go to Day 1
+
+✨ Stay consistent. Stay curious.
+We grow together — #ShaiviConnect 💫
+
+
