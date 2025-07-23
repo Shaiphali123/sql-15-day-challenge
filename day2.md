@@ -1,16 +1,5 @@
 
 
----
-
-### ✅ Final Version — `day2.md` (Fixed & Ready to Paste)
-
-````markdown
----
-layout: default
-title: "Day 2 - SQL Clauses & Filtering"
-permalink: /day2/
----
-
 # 🚀 Day 2: SQL Clauses & Filtering
 
 Welcome to **Day 2** of the **SQL 15-Day Challenge with Shaivi Connect**!  
