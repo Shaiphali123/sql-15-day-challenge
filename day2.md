@@ -1,5 +1,8 @@
+Got it, Fali! Here's your **cleaned and corrected `day2.md` file**, with **only the necessary update** (the code block fix) and nothing extra.
 
+---
 
+### ✅ Final Version — `day2.md` (Fixed & Ready to Paste)
 
 ````markdown
 ---
@@ -119,4 +122,8 @@ AND Location IS NOT NULL;
 
 ✨ Stay consistent. Stay curious.
 We grow together — **#ShaiviConnect 💫**
+
+```
+
+---
 
