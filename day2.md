@@ -1,94 +1,179 @@
+
+
+````markdown
 ---
 layout: default
-title: "Day 2 - SQL Clauses & Filtering"
-permalink: /day2/
+title: "Day 2 - WHERE Clause in SQL"
 ---
 
-🚀 Day 2: SQL Clauses & Filtering
+# 📘 Day 2: SQL `WHERE` Clause – Filter Like a Pro!
 
-Welcome to **Day 2** of the **SQL 15-Day Challenge with Shaivi Connect**!  
-Today, we’ll dive into how to **filter data** using `WHERE`, comparison operators, and pattern matching.
+Welcome to **Day 2** of the **15-Day SQL Challenge** by [Shaivi Connect](https://www.instagram.com/shaiviconnect/)!
 
----
-
-🧠 What You'll Learn Today
-
-- ✅ `WHERE` Clause  
-- ✅ Comparison Operators (`=`, `>`, `<`, `!=`, `>=`, `<=`)  
-- ✅ `BETWEEN`, `IN`, `LIKE`  
-- ✅ `IS NULL` and `IS NOT NULL`  
+Today, we’re diving into one of SQL’s most powerful tools:  
+🎯 The **`WHERE` clause** — your ultimate data filter.
 
 ---
 
-🔍 1. SQL WHERE Clause
+## 🔍 What is the `WHERE` Clause?
 
-Used to filter records that fulfill a specified condition.
+The `WHERE` clause helps filter rows based on **specific conditions**.  
+It’s used with `SELECT`, `UPDATE`, and `DELETE` statements.
+
+---
+
+## ✅ Syntax
 
 ```sql
-SELECT * FROM Customers
-WHERE Country = 'India';
-⚖️ 2. Comparison Operators
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+````
 
-SELECT * FROM Products
-WHERE Price > 100;
-You can use:
+---
 
-=, !=
+## 🧪 Sample Table: Employees
 
->, <
+| EmpID | Name  | Department | Salary |
+| ----- | ----- | ---------- | ------ |
+| 1     | Alice | HR         | 45000  |
+| 2     | Bob   | IT         | 60000  |
+| 3     | Carol | IT         | 55000  |
+| 4     | Dave  | HR         | 47000  |
+| 5     | Emma  | Finance    | 70000  |
 
->=, <=
+---
 
-🔁 3. BETWEEN, IN, LIKE
+## 🎯 Example Queries Using WHERE
 
--- BETWEEN
-SELECT * FROM Orders
-WHERE OrderDate BETWEEN '2024-01-01' AND '2024-12-31';
+### 🔹 Employees in IT Department
 
--- IN
-SELECT * FROM Customers
-WHERE Country IN ('India', 'USA', 'UK');
-
--- LIKE
-SELECT * FROM Customers
-WHERE CustomerName LIKE 'S%';  -- Starts with S
-🚫 4. IS NULL and IS NOT NULL
-
+```sql
 SELECT * FROM Employees
-WHERE Department IS NOT NULL;
-💡 Interview Questions
-What is the difference between WHERE and HAVING?
+WHERE Department = 'IT';
+```
 
-How does LIKE differ from = in SQL?
+### 🔹 Salary > 50000
 
-When would you use IN instead of multiple OR conditions?
-
-Explain the use of BETWEEN and IS NULL.
-
-🧪 Practice Challenge
-Query: Show all employees whose age is between 25 and 35 and whose location is not null.
-
-
+```sql
 SELECT * FROM Employees
-WHERE Age BETWEEN 25 AND 35
-AND Location IS NOT NULL;
-📊 Poll of the Day (on LinkedIn)
-🗳️ “Which SQL clause do you find most tricky?”
+WHERE Salary > 50000;
+```
 
-LIKE
+### 🔹 Names Starting with 'A'
 
-BETWEEN
+```sql
+SELECT * FROM Employees
+WHERE Name LIKE 'A%';
+```
 
-IN
+### 🔹 Employees Not in HR
 
-IS NULL
+```sql
+SELECT * FROM Employees
+WHERE Department != 'HR';
+```
 
-🔗 Vote on LinkedIn: [Insert your poll link here]
+### 🔹 Salary Between 45000 and 65000
 
-🔁 Previous Day
-👉 Go to Day 1
+```sql
+SELECT * FROM Employees
+WHERE Salary BETWEEN 45000 AND 65000;
+```
 
-✨ Stay consistent. Stay curious.
-We grow together — #ShaiviConnect 💫
+---
+
+## 🔁 Using Multiple Conditions
+
+```sql
+SELECT * FROM Employees
+WHERE Department = 'IT' AND Salary > 55000;
+```
+
+```sql
+SELECT * FROM Employees
+WHERE Department = 'HR' OR Salary < 50000;
+```
+
+---
+
+## ❓ WHERE vs HAVING
+
+| Feature        | WHERE                  | HAVING                   |
+| -------------- | ---------------------- | ------------------------ |
+| Used For       | Rows before grouping   | Groups after aggregation |
+| Works On       | SELECT, UPDATE, DELETE | GROUP BY results         |
+| Can Use Alias? | ❌ No                   | ✅ Yes                    |
+
+---
+
+## 💼 Top Interview Questions on `WHERE`
+
+1. ✅ What is the purpose of the `WHERE` clause in SQL?
+2. ✅ Can we use `WHERE` with `UPDATE` and `DELETE`?
+3. ✅ What's the difference between `WHERE` and `HAVING`?
+4. ✅ Can `WHERE` be used with `IN`, `BETWEEN`, and `LIKE`?
+5. ✅ Write a query to find employees with name starting with ‘S’ and salary above 60,000.
+6. ✅ How does `NULL` handling work with the `WHERE` clause?
+7. ✅ How to filter based on multiple values using `IN`?
+8. ✅ Is `WHERE` clause executed before `GROUP BY`?
+
+---
+
+## 🧠 LinkedIn Poll for Day 2
+
+**Question:**
+
+> Which SQL clause do you use most often during filtering?
+
+* 🔹 WHERE
+* 🔸 HAVING
+* 🔹 GROUP BY
+* 🔸 ORDER BY
+
+🗳️ Cast your vote & comment why 👇
+🎯 [@ShaiviConnect on LinkedIn](https://www.linkedin.com/company/107863493)
+
+---
+
+## 🧪 Practice Tasks
+
+Try writing queries using the Employees table:
+
+1. List employees whose names end with 'a'.
+2. Show employees with salary not between 50000 and 65000.
+3. Get all employees in Finance or HR.
+4. Fetch those earning exactly 55000.
+5. Display all non-IT employees with salary above 46000.
+
+---
+
+## 🧾 Summary
+
+| Feature      | Description                         |
+| ------------ | ----------------------------------- |
+| 🔹 WHERE     | Filters rows based on condition     |
+| 🔸 Operators | =, !=, <>, >, <, >=, <=             |
+| 🔹 Clauses   | Can use IN, BETWEEN, LIKE, IS NULL  |
+| 🔸 Combine   | Use AND, OR, NOT for multiple logic |
+
+---
+
+## 📢 Stay Connected – Shaivi Connect 🚀
+
+* 📸 Instagram: [@shaiviconnect](https://www.instagram.com/shaiviconnect/)
+* 🌐 Blog: [15 Days SQL Challenge](https://shaiphali123.github.io/sql-15-day-challenge)
+* 💼 LinkedIn: [Shaivi Connect](https://www.linkedin.com/company/107863493)
+* ▶️ YouTube: [Shaiphali YouTube](https://www.youtube.com/@shaiphali43)
+
+---
+
+## 🎯 Tomorrow’s Topic: ORDER BY Clause 🔽
+
+Stay tuned for Day 3!
+Let’s keep learning & growing together 💙
+**#ShaiviConnect | #LearnSQL | #Day2SQLChallenge**
+
+```
 
 
