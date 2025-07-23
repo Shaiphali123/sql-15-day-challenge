@@ -1,7 +1,4 @@
----
-layout: default
-title: "SQL 15-Day Challenge"
----
+
 
 # 📊 SQL 15-Day Challenge with Shaivi Connect 🚀
 
