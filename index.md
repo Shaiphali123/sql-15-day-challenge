@@ -1,5 +1,3 @@
-
-
 # 📊 SQL 15-Day Challenge with Shaivi Connect 🚀
 
 Welcome to the **15-Day SQL Challenge** hosted by **Shaivi Connect**!  
