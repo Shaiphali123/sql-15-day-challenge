@@ -1,5 +1,3 @@
-✅ `day2.md` Content for SQL 15-Day Challenge
-
 ---
 🚀 Day 2: SQL Clauses & Filtering
 
@@ -111,6 +109,3 @@ AND Location IS NOT NULL;
 Stay consistent. Stay curious.
 We grow together — **#ShaiviConnect 💫**
 
-```
-
----
