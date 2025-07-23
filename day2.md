@@ -1,17 +1,4 @@
-Perfect! Here's what you can do:
 
-### ✅ Step-by-Step to Fix Your `day2.md` on GitHub
-
-1. **Click this link**:
-   🔗 [Edit Day2.md](https://github.com/Shaiphali123/sql-15-day-challenge/edit/main/day2.md)
-
-2. **Replace everything** in the file with this content (below 👇):
-
----
-
-### ✅ Full Markdown (Copy & Paste this)
-
-````markdown
 ---
 title: Day 2 - SQL Filtering & Clauses
 description: Learn SQL WHERE clause, comparison operators, BETWEEN, IN, LIKE, IS NULL with examples and interview questions.
