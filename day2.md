@@ -1,20 +1,14 @@
 ✅ `day2.md` Content for SQL 15-Day Challenge
 
-````markdown
 ---
-layout: default
-title: "Day 2 - SQL Clauses & Filtering"
-permalink: /day2/
----
-
-# 🚀 Day 2: SQL Clauses & Filtering
+🚀 Day 2: SQL Clauses & Filtering
 
 Welcome to **Day 2** of the **SQL 15-Day Challenge with Shaivi Connect**!  
 Today, we’ll dive into how to **filter data** using `WHERE`, comparison operators, and pattern matching.
 
 ---
 
-## 🧠 What You'll Learn Today
+🧠 What You'll Learn Today
 - ✅ `WHERE` Clause
 - ✅ Comparison Operators (`=`, `>`, `<`, `!=`, `>=`, `<=`)
 - ✅ `BETWEEN`, `IN`, `LIKE`
