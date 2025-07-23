@@ -1,8 +1,4 @@
-
-
----
-
-### ✅ `day2.md` Content for SQL 15-Day Challenge
+✅ `day2.md` Content for SQL 15-Day Challenge
 
 ````markdown
 ---
