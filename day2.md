@@ -26,7 +26,7 @@ Today, we’ll dive into how to **filter data** using `WHERE`, comparison operat
 
 ---
 
-## 🔍 1. SQL WHERE Clause
+🔍 1. SQL WHERE Clause
 
 Used to filter records that fulfill a specified condition.
 
@@ -37,7 +37,7 @@ WHERE Country = 'India';
 
 ---
 
-## ⚖️ 2. Comparison Operators
+⚖️ 2. Comparison Operators
 
 ```sql
 SELECT * FROM Products
@@ -52,7 +52,7 @@ You can use:
 
 ---
 
-## 🔁 3. BETWEEN, IN, LIKE
+ 🔁 3. BETWEEN, IN, LIKE
 
 ```sql
 -- BETWEEN
@@ -70,7 +70,7 @@ WHERE CustomerName LIKE 'S%';  -- Starts with S
 
 ---
 
-## 🚫 4. IS NULL and IS NOT NULL
+🚫 4. IS NULL and IS NOT NULL
 
 ```sql
 SELECT * FROM Employees
@@ -79,7 +79,7 @@ WHERE Department IS NOT NULL;
 
 ---
 
-## 💡 Interview Questions
+💡 Interview Questions
 
 1. What is the difference between `WHERE` and `HAVING`?
 2. How does `LIKE` differ from `=` in SQL?
@@ -88,7 +88,7 @@ WHERE Department IS NOT NULL;
 
 ---
 
-## 🧪 Practice Challenge
+🧪 Practice Challenge
 
 **Query:** Show all employees whose age is between 25 and 35 and whose location is not null.
 
@@ -100,7 +100,7 @@ AND Location IS NOT NULL;
 
 ---
 
-## 📊 Poll of the Day (on LinkedIn)
+ 📊 Poll of the Day (on LinkedIn)
 
 🗳️ *“Which SQL clause do you find most tricky?”*
 
@@ -112,8 +112,7 @@ AND Location IS NOT NULL;
 🔗 Vote on LinkedIn: \[Insert your poll link here]
 
 ---
-
-## 🔁 Previous Day
+ 🔁 Previous Day
 
 👉 [Go to Day 1](https://shaiphali123.github.io/sql-15-day-challenge/day1)
 
@@ -125,12 +124,3 @@ We grow together — **#ShaiviConnect 💫**
 ```
 
 ---
-
-Once you upload this file to your GitHub repo, GitHub Pages will host it at:
-
-```
-
-[https://shaiphali123.github.io/sql-15-day-challenge/day2](https://shaiphali123.github.io/sql-15-day-challenge/day2)
-
-```
-
