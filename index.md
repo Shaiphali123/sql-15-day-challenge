@@ -23,8 +23,8 @@ In this challenge, you'll gain hands-on experience with:
 
 | Day | Topic | Link |
 |-----|-------|------|
-| ✅ Day 1 | Introduction to SQL & Commands | [Go to Day 1](https://github.com/Shaiphali123/sql-15-day-challenge/blob/main/Day1_Intro_SQL.md) |
-| ✅ Day 2 | SQL Clauses – WHERE, IN, LIKE, BETWEEN | [Go to Day 2](https://github.com/Shaiphali123/sql-15-day-challenge/blob/main/day2.md) |
+| ✅ Day 1 | Introduction to SQL & Commands | [Go to Day 1](https://shaiphali123.github.io/sql-15-day-challenge/Day1_Intro_SQL.html) |
+| ✅ Day 2 | SQL Clauses – WHERE, IN, LIKE, BETWEEN | [Go to Day 2](https://github.com/Shaiphali123/sql-15-day-challenge/day2.md) |
 | 🔜 Day 3 | Aggregate Functions (SUM, COUNT, AVG, MIN, MAX) | Coming Soon |
 | 🔜 Day 4 | GROUP BY and HAVING | Coming Soon |
 | 🔜 Day 5 | ORDER BY and LIMIT | Coming Soon |
