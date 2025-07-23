@@ -1,4 +1,8 @@
+Absolutely, Fali! Here's your **fully updated and cleaned `day2.md` file**, ready to paste directly into GitHub:
 
+---
+
+### ✅ Final & Corrected `day2.md` for GitHub Pages
 
 ````markdown
 ---
@@ -118,8 +122,4 @@ AND Location IS NOT NULL;
 
 ✨ Stay consistent. Stay curious.
 We grow together — **#ShaiviConnect 💫**
-
-```
-
----
 
