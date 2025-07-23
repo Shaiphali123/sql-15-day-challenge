@@ -1,12 +1,9 @@
----
-layout: default
-title: "SQL 15-Day Challenge"
----
+
 
 # 📊 SQL 15-Day Challenge with Shaivi Connect 🚀
 
 Welcome to the **15-Day SQL Challenge** hosted by **Shaivi Connect**!  
-This challenge is designed to take you from beginner to confident in SQL — step by step, day by day.
+This challenge is designed to take you from **beginner to confident** in SQL — step by step, day by day.
 
 ---
 
@@ -22,19 +19,20 @@ This challenge is designed to take you from beginner to confident in SQL — ste
 
 ## 🌟 Why This Challenge?
 
-- Learn SQL through real-world queries
-- Daily interview questions & examples
-- Short & practical learning format
-- Boost your backend, data & automation skills
+- Learn SQL through practical, real-world examples  
+- Daily interview questions & coding tasks  
+- Master SQL in just **15 days**  
+- Perfect for students, job seekers, and automation testers
 
 ---
 
-📢 Follow along on:
-- 🔗 [LinkedIn](https://linkedin.com/in/shaiphali)  
-- 📱 [Instagram](https://instagram.com/shaivi.connect)  
-- 📺 [YouTube](https://youtube.com/@shaiviconnect)
+## 🔗 Follow Shaivi Connect
+
+📱 **Instagram**: [@shaiviconnect](https://www.instagram.com/shaiviconnect/)  
+💼 **LinkedIn**: [Shaivi Connect Page](https://www.linkedin.com/company/107863493/admin/dashboard/)  
+📺 **YouTube**: [@shaiphali43](https://www.youtube.com/@shaiphali43)
 
 ---
 
 ✨ Let’s grow together — one query at a time!  
-**#ShaiviConnect #SQLChallenge #LearnSQL**
+**#ShaiviConnect #SQLChallenge #LearnSQL #AutomationWithFali**
