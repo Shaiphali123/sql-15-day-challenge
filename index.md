@@ -25,7 +25,7 @@ In this challenge, you'll gain hands-on experience with:
 |-----|-------|------|
 | ✅ Day 1 | Introduction to SQL & Commands | [Go to Day 1](https://shaiphali123.github.io/sql-15-day-challenge/Day1_Intro_SQL.html) |
 | ✅ Day 2 | SQL Clauses – WHERE, IN, LIKE, BETWEEN | [Go to Day 2](https://shaiphali123.github.io/sql-15-day-challenge/day2.html) |
-| 🔜 Day 3 | Aggregate Functions (SUM, COUNT, AVG, MIN, MAX) | Coming Soon |
+| 🔜 Day 3 | Aggregate Functions (SUM, COUNT, AVG, MIN, MAX) | [Go to Day 3] (https://shaiphali123.github.io/sql-15-day-challenge/Day3.html)) |
 | 🔜 Day 4 | GROUP BY and HAVING | Coming Soon |
 | 🔜 Day 5 | ORDER BY and LIMIT | Coming Soon |
 | 🔜 Day 6 | SQL JOINS – INNER, LEFT, RIGHT, FULL | Coming Soon |
