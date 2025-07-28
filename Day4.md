@@ -112,12 +112,6 @@ HAVING SUM(order_amount) > 10000;
 
 ---
 
-## 🖼️ Poster – Day 4
-
-![Day 4 - SQL GROUP BY & HAVING](../assets/day4-groupby-having.png)
-
----
-
 ✅ Keep Learning. Keep Growing.
 💡 Follow **#ShaiviConnect** for daily insights & interview prep tips!
 
