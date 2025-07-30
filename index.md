@@ -28,7 +28,7 @@ In this challenge, you'll gain hands-on experience with:
 | ✅ Day 3 | Aggregate Functions (SUM, COUNT, AVG, MIN, MAX) | [Go to Day 3](https://shaiphali123.github.io/sql-15-day-challenge/Day3.html) |
 | ✅ Day 4 | GROUP BY and HAVING | [Go to Day 4](https://shaiphali123.github.io/sql-15-day-challenge/Day4.html) |
 | ✅ Day 5 | SQL JOINS – INNER, LEFT, RIGHT, FULL| [Go to Day 5](https://shaiphali123.github.io/sql-15-day-challenge/Day5.html) |
-| 🔜 Day 6 | ORDER BY and LIMIT | Coming Soon |
+| ✅ Day 6 | ORDER BY and LIMIT | [Go to Day 6](https://shaiphali123.github.io/sql-15-day-challenge/Day6.html) |
 | 🔜 Day 7 | Subqueries and Nested SELECT | Coming Soon |
 | 🔜 Day 8 | SQL Constraints and Keys | Coming Soon |
 | 🔜 Day 9 | SQL Views & Indexing | Coming Soon |
