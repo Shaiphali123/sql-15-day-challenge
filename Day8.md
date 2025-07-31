@@ -102,7 +102,3 @@ Keep learning daily with hands-on SQL lessons!
 
 ```
 
-
-
-Let me know what you want next: Day 9 (Joins), CI/CD questions, or anything else!
-```
