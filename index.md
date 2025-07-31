@@ -29,7 +29,7 @@ In this challenge, you'll gain hands-on experience with:
 | ✅ Day 4 | GROUP BY and HAVING | [Go to Day 4](https://shaiphali123.github.io/sql-15-day-challenge/Day4.html) |
 | ✅ Day 5 | SQL JOINS – INNER, LEFT, RIGHT, FULL| [Go to Day 5](https://shaiphali123.github.io/sql-15-day-challenge/Day5.html) |
 | ✅ Day 6 | ORDER BY and LIMIT | [Go to Day 6](https://shaiphali123.github.io/sql-15-day-challenge/Day6.html) |
-| 🔜 Day 7 | Subqueries and Nested SELECT | Coming Soon |
+| ✅ Day 7 | Subqueries and Nested SELECT | [Go to Day 7](https://shaiphali123.github.io/sql-15-day-challenge/Day7.html) |
 | 🔜 Day 8 | SQL Constraints and Keys | Coming Soon |
 | 🔜 Day 9 | SQL Views & Indexing | Coming Soon |
 | 🔜 Day 10 | SQL Functions – Built-in & User Defined | Coming Soon |
