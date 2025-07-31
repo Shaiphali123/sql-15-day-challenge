@@ -23,7 +23,7 @@ A curated list of commonly asked Git interview questions, categorized by skill l
 5. **How do you clone a repository?**  
    ```bash
    git clone <repository-url>
-````
+
 
 6. **What is `.gitignore`?**
    A file listing patterns of files and directories to be ignored by Git.
