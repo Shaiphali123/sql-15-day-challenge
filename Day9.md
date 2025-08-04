@@ -1,9 +1,3 @@
-title: "Day 9: SQL Views & Indexing"
-description: "Learn about SQL Views and Indexes, their purpose, benefits, syntax, and interview-level questions with real-world examples."
-author: "Shaivi Connect"
-date: 2025-08-01
----
-
 # 📅 Day 9: SQL Views & Indexing — #ShaiviConnect SQL 15-Day Challenge
 
 Welcome to **Day 9** of our SQL series!  
@@ -161,7 +155,3 @@ Using indexes on columns with **high selectivity** (i.e., unique values) yields 
 * 📸 [Instagram: @ShaiviConnect](https://www.instagram.com/shaiviconnect)
 * 🧑‍💻 [GitHub](https://github.com/Shaiphali123)
 
-
-
-Also ready to give you an **Instagram caption**, **LinkedIn poll setup**, or **Reel script** if needed!
-```
