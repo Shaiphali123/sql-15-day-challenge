@@ -33,7 +33,7 @@ In this challenge, you'll gain hands-on experience with:
 | ✅ Day 8 | SQL Constraints and Keys | [Go to Day 8](https://shaiphali123.github.io/sql-15-day-challenge/Day8.html) |
 | ✅ Day 9 | SQL Views & Indexing | [Go to Day 9](https://shaiphali123.github.io/sql-15-day-challenge/Day9.html) |
 | ✅ Day 10 | SQL Functions – Built-in & User Defined | [Go to Day 10](https://shaiphali123.github.io/sql-15-day-challenge/Day10.html) |
-| 🔜 Day 11 | Data Manipulation (INSERT, UPDATE, DELETE) | Coming Soon |
+| ✅ Day 11 | Data Manipulation (INSERT, UPDATE, DELETE) | [Go to Day 11](https://shaiphali123.github.io/sql-15-day-challenge/Day11.html) |
 | 🔜 Day 12 | Data Definition (CREATE, DROP, ALTER) | Coming Soon |
 | 🔜 Day 13 | Stored Procedures & Transactions | Coming Soon |
 | 🔜 Day 14 | SQL Performance Tips | Coming Soon |
