@@ -1,23 +1,21 @@
-Here’s your **Day 11: SQL Data Manipulation (INSERT, UPDATE, DELETE)** content in **Markdown format** for your GitHub blog:
-
----
-
-````markdown
 # 📘 Day 11 – SQL Data Manipulation (INSERT, UPDATE, DELETE)
 
 Welcome to Day 11 of the **15-Day SQL Challenge**!  
-Today we’ll focus on one of the most frequently used SQL operations – **Data Manipulation**, covering:
+Today we’ll explore one of the most **frequently used SQL operations** – **Data Manipulation**, focusing on how to:
 
-- `INSERT`: Add new data
-- `UPDATE`: Modify existing data
-- `DELETE`: Remove data
+- 📥 Insert new records (`INSERT`)
+- 🔁 Update existing records (`UPDATE`)
+- ❌ Delete records (`DELETE`)
+
+Mastering these commands is essential for working with real-world databases.
 
 ---
 
-## 🧠 Concepts
+## 🧠 Core Concepts
 
-### 🔹 INSERT INTO
-Used to add new records into a table.
+### 🔹 1. INSERT INTO
+
+Used to add new rows to a table.
 
 ```sql
 INSERT INTO table_name (column1, column2, ...)
@@ -31,11 +29,20 @@ INSERT INTO employees (id, name, salary)
 VALUES (101, 'Alice', 50000);
 ```
 
+👉 You can also insert multiple rows:
+
+```sql
+INSERT INTO employees (id, name, salary)
+VALUES 
+(102, 'Bob', 40000),
+(103, 'Carol', 55000);
+```
+
 ---
 
-### 🔹 UPDATE
+### 🔹 2. UPDATE
 
-Used to modify existing records.
+Used to modify existing data.
 
 ```sql
 UPDATE table_name
@@ -51,13 +58,13 @@ SET salary = 60000
 WHERE id = 101;
 ```
 
-❗ Always use the `WHERE` clause, or all rows will be updated.
+⚠️ **Always** use the `WHERE` clause, or **all records** will be updated!
 
 ---
 
-### 🔹 DELETE
+### 🔹 3. DELETE
 
-Used to delete existing records.
+Used to remove data from the table.
 
 ```sql
 DELETE FROM table_name
@@ -71,18 +78,31 @@ DELETE FROM employees
 WHERE id = 101;
 ```
 
-❗ Without `WHERE`, **all** rows will be deleted!
+⚠️ Skipping the `WHERE` clause deletes **all records**!
 
 ---
 
-## 🎯 Practice Questions
+## 💡 Bonus Tips
 
-1. Insert a new product into a `products` table with id 501, name 'Laptop', and price 45000.
-2. Update the price of the product with id 501 to 42000.
-3. Delete the product with id 501 from the `products` table.
-4. Insert 3 new rows into a `students` table.
-5. Update all student names to uppercase using `UPPER()` function.
-6. Delete all students with marks below 40.
+* Use `TRUNCATE TABLE` to delete all rows quickly (⚠️ can't be rolled back).
+* Use `RETURNING` (in some databases) to see what was inserted/updated/deleted.
+
+---
+
+## 📝 Practice Questions
+
+Try writing SQL queries for the following:
+
+1. Insert a new employee into `employees` with `id=201`, `name='John'`, and `salary=45000`.
+2. Update John's salary to `50000`.
+3. Delete the employee with `id=201`.
+4. Insert 3 students into a `students` table with columns `id`, `name`, and `marks`.
+5. Update all students with `marks > 90` to add a bonus of `5`.
+6. Delete students who failed (marks < 40).
+7. Add a new product to a `products` table.
+8. Reduce price of all products by 10% using arithmetic operators.
+9. Delete all products out of stock (`quantity = 0`).
+10. Increase salary of all employees in department 'HR' by 15%.
 
 ---
 
@@ -90,43 +110,74 @@ WHERE id = 101;
 
 ```sql
 -- Q1
-INSERT INTO products (id, name, price)
-VALUES (501, 'Laptop', 45000);
+INSERT INTO employees (id, name, salary)
+VALUES (201, 'John', 45000);
 
 -- Q2
-UPDATE products
-SET price = 42000
-WHERE id = 501;
+UPDATE employees
+SET salary = 50000
+WHERE id = 201;
 
 -- Q3
-DELETE FROM products
-WHERE id = 501;
+DELETE FROM employees
+WHERE id = 201;
+
+-- Q5
+UPDATE students
+SET marks = marks + 5
+WHERE marks > 90;
+
+-- Q6
+DELETE FROM students
+WHERE marks < 40;
 ```
 
 ---
 
-## 📊 Poll Time (Test Your Concept)
+## 📊 Poll Time – Test Your Concept
 
-**Q: What happens if you run `UPDATE employees SET salary = 0;` without a WHERE clause?**
+**Q: What happens if you run the following query without a WHERE clause?**
+
+```sql
+UPDATE employees
+SET salary = 0;
+```
 
 * A) Only one row is updated
 * B) No rows are updated
 * C) All rows are updated
 * D) Query will throw an error
 
-> 💡 Correct Answer: **C) All rows are updated**
+> 💡 **Correct Answer: C) All rows are updated**
+
+---
+
+## 🔍 Interview Tip
+
+**Q: What's the difference between DELETE, TRUNCATE, and DROP?**
+
+| Operation | Removes Data | Rollback Possible | Affects Structure  |
+| --------- | ------------ | ----------------- | ------------------ |
+| DELETE    | ✅ Yes        | ✅ Yes             | ❌ No               |
+| TRUNCATE  | ✅ Yes        | ❌ No              | ❌ No               |
+| DROP      | ✅ Yes (all)  | ❌ No              | ✅ Yes (table gone) |
 
 ---
 
 ## 🔗 Connect With Me
 
-* 📘 [GitHub](https://github.com/your-profile)
-* 📸 [Instagram](https://instagram.com/your-profile)
-* 📺 [YouTube](https://youtube.com/your-channel)
+✨ Let’s grow together!
+
+* 💻 [GitHub](https://github.com/Shaiphali123/)
+* 📸 [Instagram](https://www.instagram.com/shaiviconnect/).
+* 📺 [YouTube](https://www.youtube.com/@shaiphali43)
+* 💼 [LinkedIn](https://www.linkedin.com/company/107863493/admin/page-posts/published/)
 
 ---
 
-*✨ Keep practicing. Tomorrow, we dive into **SQL Joins (Inner, Left, Right, Full)**. Stay tuned!*
+*🚀 Keep going! You're doing great. In **Day 12**, we’ll unlock the magic of **SQL Joins (Inner, Left, Right, Full)**. Stay tuned!*
 
-Let me know if you’d like a matching poster or HTML version for your blog as well!
+
+
+Let me know if you'd like a **poster**, **HTML version**, or **MCQ quiz questions** for this topic too.
 ```
