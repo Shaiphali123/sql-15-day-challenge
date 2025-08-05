@@ -175,9 +175,5 @@ SET salary = 0;
 
 ---
 
-*🚀 Keep going! You're doing great. In **Day 12**, we’ll unlock the magic of **SQL Joins (Inner, Left, Right, Full)**. Stay tuned!*
+*🚀 Keep going! You're doing great. In **Day 12**, we’ll unlock the magic of **Data Definition (CREATE, DROP, ALTER)**. Stay tuned!*
 
-
-
-Let me know if you'd like a **poster**, **HTML version**, or **MCQ quiz questions** for this topic too.
-```
