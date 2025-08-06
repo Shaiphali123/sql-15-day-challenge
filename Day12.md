@@ -123,5 +123,4 @@ ADD department VARCHAR(30);
 
 ### 🚀 Keep Learning, Keep Practicing!
 
-I can generate those too!
-```
+
