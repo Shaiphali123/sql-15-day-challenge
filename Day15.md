@@ -1126,11 +1126,10 @@ Keep practicing, keep learning, and most importantly, keep building amazing thin
 - **[View Solutions Repository](https://github.com/yourusername/sql-15day-challenge-solutions)**
 
 ### 🌐 Connect With Me
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Blog**: [yourblog.com](https://yourblog.com)
-- **Email**: your.email@domain.com
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/company/107863493/admin/dashboard/)
+- **GitHub**: [github.com/yourusername](https://github.com/Shaiphali123/)
+- **Blog**: [yourblog.com](https://www.youtube.com/@shaiphali43)
+- **Email**: bshaiphali@gmail.com
 
 ### 📚 Additional Resources
 - **[SQL Practice Websites](https://github.com/yourusername/sql-resources)**
@@ -1138,14 +1137,6 @@ Keep practicing, keep learning, and most importantly, keep building amazing thin
 - **[SQL Performance Tuning Guide](https://github.com/yourusername/sql-performance)**
 - **[Interview Questions Bank](https://github.com/yourusername/sql-interview-prep)**
 
-### 🏆 Challenge Statistics
-- **Total Participants**: 5,000+
-- **Completion Rate**: 78%
-- **Average Learning Time**: 45 hours
-- **Success Stories**: [Read testimonials](https://github.com/yourusername/sql-15day-challenge/testimonials)
-
-### 📄 License
-This educational content is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
