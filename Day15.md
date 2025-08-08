@@ -1106,11 +1106,10 @@ This challenge is just the beginning! SQL is a skill that grows with practice an
 
 ### Call to Action
 
-1. **Star this repository** if it helped you learn SQL
-2. **Share your completion certificate** on social media with #SQLChallenge15Days
-3. **Connect with me on LinkedIn**: [Your LinkedIn Profile]
-4. **Follow my GitHub**: [Your GitHub Profile]
-5. **Subscribe to my newsletter** for more programming challenges
+
+1. **Connect with me on LinkedIn**: [https://www.linkedin.com/company/107863493/admin/dashboard/]
+2. **Follow my GitHub**: [https://github.com/Shaiphali123/]
+3. **Subscribe to my newsletter** for more programming challenges
 
 Remember: *"The expert in anything was once a beginner."* - Helen Hayes
 
@@ -1127,18 +1126,13 @@ Keep practicing, keep learning, and most importantly, keep building amazing thin
 ### 🌐 Connect With Me
 - **LinkedIn**: [linkedin.com/in/shaiphali](https://www.linkedin.com/company/107863493/admin/dashboard/)
 - **GitHub**: [github.com/shaiphali](https://github.com/Shaiphali123/)
-- **Blog**: [yourblog.com](https://www.youtube.com/@shaiphali43)
+- **Blog**: [Shaiphaliblog.com](https://www.youtube.com/@shaiphali43)
 - **Email**: bshaiphali@gmail.com
 
-### 📚 Additional Resources
-- **[SQL Practice Websites](https://github.com/yourusername/sql-resources)**
-- **[Database Design Patterns](https://github.com/yourusername/db-patterns)**
-- **[SQL Performance Tuning Guide](https://github.com/yourusername/sql-performance)**
-- **[Interview Questions Bank](https://github.com/yourusername/sql-interview-prep)**
 
 
 ---
 
 **Built with ❤️ for the SQL learning community**
 
-*"Data is the new oil, and SQL is the refinery."* - Unknown
+*"Data is the new oil, and SQL is the refinery."* - Shaiphali
