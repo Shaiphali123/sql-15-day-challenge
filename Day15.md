@@ -1121,13 +1121,12 @@ Keep practicing, keep learning, and most importantly, keep building amazing thin
 ## 📥 Footer
 
 ### 🎯 Download Complete Challenge
-- **[Download Full 15-Day SQL Challenge PDF](https://github.com/yourusername/sql-15day-challenge/releases/latest)**
-- **[Access All SQL Scripts](https://github.com/yourusername/sql-15day-challenge/tree/main/scripts)**
-- **[View Solutions Repository](https://github.com/yourusername/sql-15day-challenge-solutions)**
+- **[Download Full 15-Day SQL Challenge PDF](https://shaiphali123.github.io/sql-15-day-challenge/)**
+
 
 ### 🌐 Connect With Me
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/company/107863493/admin/dashboard/)
-- **GitHub**: [github.com/yourusername](https://github.com/Shaiphali123/)
+- **LinkedIn**: [linkedin.com/in/shaiphali](https://www.linkedin.com/company/107863493/admin/dashboard/)
+- **GitHub**: [github.com/shaiphali](https://github.com/Shaiphali123/)
 - **Blog**: [yourblog.com](https://www.youtube.com/@shaiphali43)
 - **Email**: bshaiphali@gmail.com
 
