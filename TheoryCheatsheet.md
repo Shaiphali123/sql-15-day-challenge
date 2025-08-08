@@ -1,15 +1,3 @@
-It seems like I can’t do more advanced data analysis right now. Please try again later.
-
-However, you can **copy and paste** the following Markdown content into a `.md` file manually. Just open a text editor (like VS Code or Notepad++), paste this in, and save it as `SQL_Theory_Cheatsheet.md`.
-
----
-
-### ✅ SQL Theory Cheatsheet (Markdown Version)
-
-<details>
-<summary>Click to expand full cheatsheet</summary>
-
-````markdown
 # 🧠 SQL Theory Cheatsheet
 
 Your quick revision guide for SQL basics to intermediate concepts. Perfect for interviews and daily practice.
@@ -194,11 +182,7 @@ END;
 
 Happy Learning! 🚀
 
-```
 
-</details>
-
----
 
 If you'd like me to generate a downloadable file again later, just ask once the tools are working again.
 ```
