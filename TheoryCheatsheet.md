@@ -181,8 +181,3 @@ END;
 ---
 
 Happy Learning! 🚀
-
-
-
-If you'd like me to generate a downloadable file again later, just ask once the tools are working again.
-```
