@@ -36,7 +36,7 @@ In this challenge, you'll gain hands-on experience with:
 | ✅ Day 11 | Data Manipulation (INSERT, UPDATE, DELETE) | [Go to Day 11](https://shaiphali123.github.io/sql-15-day-challenge/Day11.html) |
 | ✅ Day 12 | Data Definition (CREATE, DROP, ALTER) | [Go to Day 12](https://shaiphali123.github.io/sql-15-day-challenge/Day12.html) |
 | ✅ Day 13 | Stored Procedures & Transactions | [Go to Day 13](https://shaiphali123.github.io/sql-15-day-challenge/Day13.html) |
-| 🔜 Day 14 | SQL Performance Tips | Coming Soon |
+| ✅ Day 14 | SQL Performance Tips | [Go to Day 14](https://shaiphali123.github.io/sql-15-day-challenge/Day14.html) |
 | 🔜 Day 15 | SQL Interview Q&A + Final Project | Coming Soon |
 
 ---
