@@ -39,7 +39,7 @@ In this challenge, you'll gain hands-on experience with:
 | ✅ Day 14 | SQL Performance Tips | [Go to Day 14](https://shaiphali123.github.io/sql-15-day-challenge/Day14.html) |
 | ✅ Day 15 | SQL Interview Q&A + Final Project | [Go to Day 15](https://shaiphali123.github.io/sql-15-day-challenge/Day15.html) |
 | ✅ Cheatsheet | SQL Interview Q&A + Final Project | [Revise Concept](https://shaiphali123.github.io/sql-15-day-challenge/Cheatsheet.html) |
-| ✅ TheoryCheatSheet | SQL Interview Q&A + Final Project | [Quick recape](https://shaiphali123.github.io/sql-15-day-challenge/TheoryCheatSheet.html) |
+| ✅ TheoryCheatSheet | SQL Interview Q&A + Final Project | [Quick recape](https://shaiphali123.github.io/sql-15-day-challenge/TheoryCheatsheet.html) |
 
 ---
 
